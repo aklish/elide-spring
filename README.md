@@ -1,5 +1,8 @@
 # Elide Spring Boot Example
 
+__This is a clone of https://github.com/yahoo/elide-spring-boot-example__
+
+
 An archetype Elide project using Spring Boot.
 
 ## Background
